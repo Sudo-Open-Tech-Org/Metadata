@@ -1,0 +1,15 @@
+Download and Install the prerequisites software we underlined:
+ 
+ Software                                          Source
+
+- Putty  ----------------------> https://apps.microsoft.com/store/detail/putty/XPFNZKSKLBP7RJ
+- MobaXterm -------------------> https://mobaxterm.mobatek.net/download-home-edition.html
+- VMWare  ---------------------> https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+- Oracle VirtualBox------------>
+- Telegram -------------------->
+- Zoom ------------------------>
+- wsl ------------------------->
+
+
+ISO Images (Mirror Lists)
+CentOS ------------------------> http://mirror.umd.edu/centos/7.9.2009/isos/x86_64
